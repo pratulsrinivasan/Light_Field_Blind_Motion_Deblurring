@@ -4,7 +4,7 @@
 
 In Computer Vision and Pattern Recognition (CVPR), 2017 (Oral Presentation)
 
-[Paper](https://people.eecs.berkeley.edu/~pratul/CVPR17_LF_BLIND_MOTION_DEBLURRING.pdf), [Video](https://youtu.be/rtukre-ErmI), [Animated Results](https://people.eecs.berkeley.edu/~pratul/deblur_html/supplementary.html), [Data and Results from Paper](https://people.eecs.berkeley.edu/~pratul/deblur_html/deblur_data_results.zip)
+[Paper](https://people.eecs.berkeley.edu/~pratul/CVPR17_LF_BLIND_MOTION_DEBLURRING.pdf), [Video](https://youtu.be/rtukre-ErmI), [Animated Results](https://people.eecs.berkeley.edu/~pratul/deblur_html/supplementary.html), [Data and Results from Paper](https://people.eecs.berkeley.edu/~pratul/deblur_data_results.zip)
 
 Light Field Blurred with 3D Camera Motion
 
