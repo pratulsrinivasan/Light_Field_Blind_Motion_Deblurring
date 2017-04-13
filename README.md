@@ -19,7 +19,7 @@ Our Light Field Blind Motion Deblurring Result
 This repository contains:
 1) Light_Field_Blind_Motion_Deblurring.ipynb Jupyter notebook with an implementation of our light field blind deblurring algorithm.
 
-[Data and Results File](https://people.eecs.berkeley.edu/~pratul/deblur_html/deblur_data_results.zip) contains:
+[Data and Results File](https://people.eecs.berkeley.edu/~pratul/deblur_data_results.zip) contains:
 1) Data folder with mat files containing light fields used in our paper.
 2) Results folder with mat files containing results from our paper.
 3) parameters_to_use.txt Text file with suggested algorithm parameters to use for these examples.
