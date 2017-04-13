@@ -14,7 +14,7 @@ Our Light Field Blind Motion Deblurring Result
 
 ![Our Light Field Blind Motion Deblurring Result](https://people.eecs.berkeley.edu/~pratul/gifs/deblur_ours.gif)
 
-### Contents3
+### Contents
 
 This repository contains:
 1) Light_Field_Blind_Motion_Deblurring.ipynb Jupyter notebook with an implementation of our light field blind deblurring algorithm.
