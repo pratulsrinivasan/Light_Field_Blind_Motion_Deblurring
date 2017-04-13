@@ -14,6 +14,14 @@ Our Light Field Blind Motion Deblurring Result
 
 ![Our Light Field Blind Motion Deblurring Result](https://people.eecs.berkeley.edu/~pratul/gifs/deblur_ours.gif)
 
+### Contents
+
+This repository contains:
+1) Light_Field_Blind_Motion_Deblurring.ipynb Jupyter notebook with an implementation of our light field blind deblurring algorithm.
+2) Data folder with mat files containing light fields used in our paper.
+3) Results folder with mat files containing results from our paper.
+4) parameters_to_use.txt Text file with suggested algorithm parameters to use for these examples.
+
 ### Dependencies
 
 This code depends on a working installation of Tensorflow and basic Python libraries (numpy, scipy, matplotlib).
