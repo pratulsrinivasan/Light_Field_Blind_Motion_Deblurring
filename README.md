@@ -4,7 +4,7 @@
 
 In Computer Vision and Pattern Recognition (CVPR), 2017 (Oral Presentation)
 
-[Paper](https://people.eecs.berkeley.edu/~pratul/CVPR17_LF_BLIND_MOTION_DEBLURRING.pdf), [Video](https://youtu.be/rtukre-ErmI), [Animated Results](https://people.eecs.berkeley.edu/~pratul/deblur_html/supplementary.html), [Data and Results from Paper](https://people.eecs.berkeley.edu/~pratul/deblur_data_results.zip)
+[Paper](https://arxiv.org/abs/1704.05416), [Video](https://youtu.be/rtukre-ErmI), [Animated Results](https://people.eecs.berkeley.edu/~pratul/deblur_html/supplementary.html), [Data and Results from Paper](https://people.eecs.berkeley.edu/~pratul/code/deblur_data_results.zip)
 
 Light Field Blurred with 3D Camera Motion
 
@@ -19,7 +19,7 @@ Our Light Field Blind Motion Deblurring Result
 This repository contains:
 1) Light_Field_Blind_Motion_Deblurring.ipynb Jupyter notebook with an implementation of our light field blind deblurring algorithm.
 
-[Data and Results File](https://people.eecs.berkeley.edu/~pratul/deblur_data_results.zip) contains:
+[Data and Results File](https://people.eecs.berkeley.edu/~pratul/code/deblur_data_results.zip) contains:
 1) Data folder with mat files containing light fields used in our paper.
 2) Results folder with mat files containing results from our paper.
 3) parameters_to_use.txt Text file with suggested algorithm parameters to use for these examples.
